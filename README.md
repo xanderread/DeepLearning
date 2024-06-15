@@ -2,7 +2,7 @@
  
 # CIFAR-100 Deep Learning Models
 
-This repository contains the implementation of two deep learning models as part of the COMP3547 Deep Learning module at Durham University. The coursework involves designing and training a classifier and a generative model using the CIFAR-100 dataset.
+This repository contains the implementation of two deep learning models as part of the COMP3547 Deep Learning module at Durham University. The coursework involved designing and training a classifier and a generative model using the CIFAR-100 dataset.
 
 ## Overview
 
